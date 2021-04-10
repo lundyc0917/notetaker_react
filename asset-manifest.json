@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/workdayPlanner_react/static/css/main.6d45f959.chunk.css",
+    "main.js": "/workdayPlanner_react/static/js/main.08ad647e.chunk.js",
+    "main.js.map": "/workdayPlanner_react/static/js/main.08ad647e.chunk.js.map",
+    "runtime-main.js": "/workdayPlanner_react/static/js/runtime-main.bf52ee58.js",
+    "runtime-main.js.map": "/workdayPlanner_react/static/js/runtime-main.bf52ee58.js.map",
+    "static/js/2.d4dc0550.chunk.js": "/workdayPlanner_react/static/js/2.d4dc0550.chunk.js",
+    "static/js/2.d4dc0550.chunk.js.map": "/workdayPlanner_react/static/js/2.d4dc0550.chunk.js.map",
+    "index.html": "/workdayPlanner_react/index.html",
+    "static/css/main.6d45f959.chunk.css.map": "/workdayPlanner_react/static/css/main.6d45f959.chunk.css.map",
+    "static/js/2.d4dc0550.chunk.js.LICENSE.txt": "/workdayPlanner_react/static/js/2.d4dc0550.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf52ee58.js",
+    "static/js/2.d4dc0550.chunk.js",
+    "static/css/main.6d45f959.chunk.css",
+    "static/js/main.08ad647e.chunk.js"
+  ]
+}
